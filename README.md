@@ -19,3 +19,5 @@
   <a href="https://www.linkedin.com/in/kauan-almeida-b958a1271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:kauan.almeida1300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://kauan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=files&logoColor=white"></a>
+
+![snake gif](https://github.com/Kauan-dev/Kauan-dev/blob/output/github-snake-dark.svg)
