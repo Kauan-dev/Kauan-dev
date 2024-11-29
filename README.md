@@ -2,6 +2,10 @@
 
 ### Desenvolvedor Front-End & Automação
 
+<p>
+  Sou um <b>desenvolvedor brasileiro</b> de Salvador, Bahia, focado em <b>facilitar a vida das pessoas</b> criando sites <b>eficientes e atraentes</b>, além de <b>soluções de automação</b> que <b>agilizam processos repetitivos</b> e <b>aumentam a eficiência</b>.
+</p>  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
