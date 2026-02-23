@@ -19,6 +19,6 @@
 
 ##
 
-  <a href="https://www.instagram.com/kauan_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauan-almeida-b958a1271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://kauan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=files&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/kauan-almeida-b958a1271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/kauan_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
